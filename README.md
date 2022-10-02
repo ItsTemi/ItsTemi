@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somoye Temitope</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-![](/images/github-header-image.png)
-
 #### My Core Languages, Frameworks and Tools I use.
 
 <code>
