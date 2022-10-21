@@ -42,5 +42,5 @@
 <a href="https://twitter.com/_itsTemi"><img src="images/twitter.png" width="60" /></a>
 <a href="https://github.com/itsTemi"><img src="images/github.jpg" width="60" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsTemi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsTmi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsTemi&show_icons=true&theme=dark)
